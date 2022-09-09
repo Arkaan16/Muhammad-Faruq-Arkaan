@@ -2,15 +2,15 @@
 using namespace std;
 int main(){
 
-	int x , y;
+	int a , b;
 	
-	cin >> x >> y;
+	cin >> a >> b;
 	
-	cout << x + y <<endl;
-	cout << x - y <<endl;
-	cout << x * y <<endl;
-	cout << x / y <<endl;
-	cout << x % y <<endl;
+	cout << a + b <<endl;
+	cout << a - b <<endl;
+	cout << a * b <<endl;
+	cout << a / b <<endl;
+	cout << a % b <<endl;
 	
 	return 0;
 }
